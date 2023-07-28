@@ -94,4 +94,4 @@ function cachingDecoratorNew(func) {
     console.log(upgradedSendSignal.allCount);
   }, 7000);
   
-  //новый комит еще один
+  
